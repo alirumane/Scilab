@@ -1,4 +1,4 @@
-# Scilab
+# Compand
 compand(in,param,v,charac)
 
 This module is compatible with Scilab 5.5.2 and above.
